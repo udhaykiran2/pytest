@@ -36,7 +36,8 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        name: [
+        name: [ 
+          "sai deeksha @nana
           "windows-py37",
           "windows-py37-pluggy",
           "windows-py38",
